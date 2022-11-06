@@ -36,3 +36,5 @@ public void configure() {
 [Mule](https://developer.mulesoft.com/)
 
 [Martin Flower](https://www.oreilly.com/library/view/enterprise-integration-patterns/0321200683/pref03.html)
+
+[Link1](https://access.redhat.com/documentation/en-us/red_hat_fuse/7.7/html/apache_camel_development_guide/fusemrstartedblocks)
