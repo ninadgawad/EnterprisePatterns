@@ -1,4 +1,4 @@
-# EnterprisePatterns
+# Enterprise Application Patterns
 Enterprise Integration Patterns:
 There patterns provide technology-independent design guidance for developers and architects to describe and develop robust integration solutions
 
