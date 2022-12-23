@@ -3,6 +3,13 @@ Enterprise Integration Patterns:
 There patterns provide technology-independent design guidance for developers and architects to describe and develop robust integration solutions
 
 - Messaging
+  - Message Channel
+  - Message
+  - Pipes and Filters
+  - Message Router
+  - Message Translator
+  - Message Endpoint 
+  
 - REST
 
 
