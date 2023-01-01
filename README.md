@@ -45,3 +45,6 @@ public void configure() {
 [Martin Flower](https://www.oreilly.com/library/view/enterprise-integration-patterns/0321200683/pref03.html)
 
 [Link1](https://access.redhat.com/documentation/en-us/red_hat_fuse/7.7/html/apache_camel_development_guide/fusemrstartedblocks)
+
+[Patterns of Enterprise Application Architecture](https://learning.oreilly.com/library/view/patterns-of-enterprise/0321127420/)
+
